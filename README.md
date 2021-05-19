@@ -1,2 +1,2 @@
-# problem-solving
- Programming exercises
+# Problemn Solving
+Resolution for Hackerrank exercises
