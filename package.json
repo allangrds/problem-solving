@@ -6,17 +6,9 @@
   "scripts": {
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/allangrds/problem-solving.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/allangrds/problem-solving/issues"
-  },
-  "homepage": "https://github.com/allangrds/problem-solving#readme",
   "devDependencies": {
-    "jest": "26.6.3"
+    "jest": "^29.7.0"
   }
 }
