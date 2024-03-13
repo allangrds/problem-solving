@@ -1,0 +1,1 @@
+Develop an algorithm that efficiently identifies duplicate occurrences in a list of animals, taking into account both cyclomatic complexity and time complexity. If a second occurrence of an animal is detected, replace it with an asterisk (*). After executing the algorithm, present the resulting list.
