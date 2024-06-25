@@ -10,5 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "volta": {
+    "node": "20.11.0"
   }
 }
